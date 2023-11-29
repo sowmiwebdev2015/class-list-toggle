@@ -6,9 +6,9 @@
     color: white;
     font-size: 27px;
     font-weight: bold;
-    margin-left: 250px;
+    margin-left: 200px;
 }
-@media(max-width:576px){
+@media(max-width:470px){
     .navLinks{
         display: none;
         position: absolute;
