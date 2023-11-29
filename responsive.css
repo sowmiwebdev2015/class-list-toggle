@@ -6,7 +6,7 @@
     color: white;
     font-size: 27px;
     font-weight: bold;
-    margin-left: 180px;
+    margin-left: 100px;
 }
 @media(max-width:470px){
     .navLinks{
